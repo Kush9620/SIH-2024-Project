@@ -1,7 +1,5 @@
 # NavPath
 
-![System Demo](demo.gif) *Example visualization of the navigation system*
-
 ## Overview
 This project provides an intelligent ship navigation system that optimizes routes based on:
 - Weather conditions (wind, currents)
